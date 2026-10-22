@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="app_version">8.2.2</string>
+    <string name="app_version">8.1.1</string>
     <string name="about_title">About Calculator</string>
     <string name="about_description">Simple, fast, and elegant calculator for everyday calculations.</string>
     <string name="history_title">Calculation History</string>

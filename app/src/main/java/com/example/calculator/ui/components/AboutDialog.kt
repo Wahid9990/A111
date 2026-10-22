@@ -119,7 +119,7 @@ fun AboutDialog(
                         verticalArrangement = Arrangement.spacedBy(8.dp)
                     ) {
                         FeatureRow(title = "Language", description = "English (US)")
-                        FeatureRow(title = "Version", description = "8.2.2")
+                        FeatureRow(title = "Version", description = "8.1.1")
                         FeatureRow(title = "Evaluation", description = "Real-time live preview")
                         FeatureRow(title = "History", description = "Saved calculations list")
                         FeatureRow(title = "Precision", description = "High-accuracy decimal arithmetic")

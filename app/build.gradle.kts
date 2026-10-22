@@ -16,8 +16,8 @@ android {
     applicationId = "com.aistudio.calculator.qpzrk"
     minSdk = 24
     targetSdk = 36
-    versionCode = 80202
-    versionName = "8.2.2"
+    versionCode = 80101
+    versionName = "8.1.1"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
